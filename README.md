@@ -1,6 +1,6 @@
 # Explainable Road Scene Anomaly Detection System
 
-## Academic Demonstration (30% Implementation)
+## Academic Demonstration 
 
 This project demonstrates a simplified road scene anomaly detection system using YOLO for object detection with basic explainability features.
 
@@ -74,4 +74,5 @@ This is a demonstration implementation focusing on core functionality. The full 
 - CNN comparison models (VGG16, ResNet, DenseNet)
 - Training and evaluation metrics
 - Advanced XAI techniques (Grad-CAM, heatmaps)
+
 - Real-time performance optimization
